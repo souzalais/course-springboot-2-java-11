@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.educandoweb.workshop.entities.Order;
-import com.educandoweb.workshop.entities.User;
+
 import com.educandoweb.workshop.repositories.OrderRepository;
-import com.educandoweb.workshop.repositories.UserRepository;
+
 
 @Service
 public class OrderService {
